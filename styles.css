@@ -47,10 +47,10 @@ ul{
     color: rgb(237, 237, 238);
     text-align: center;
     position: static;
-	border: white, 3px, solid;
+	border: white 3px solid;
 }
 h1{
-	border: 3px, solid, white;
+	border: white 3px solid;
 }
 
 main{
