@@ -42,16 +42,16 @@ div.gallery img {
 ul{
     text-align: left;
 }
-header, footer{
+  header, footer{
     background-color: rgba(19, 13, 48, 0.63);
     color: rgb(237, 237, 238);
     text-align: center;
     position: static;
-    border: 3px, solid, white;
+    border: 3px, solid;
 }
 h1{
-    border: 3px, solid, white;
-    
+    border: 3px, solid;
+    color: white;
 }
 
 main{
