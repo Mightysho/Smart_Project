@@ -47,9 +47,7 @@ ul{
     color: rgb(237, 237, 238);
     text-align: center;
     position: static;
-	border: white 3px solid;
 }
-
 
 main{
     display: flex;
