@@ -1,4 +1,4 @@
-/* body{
+body{
     text-align: justify;
     background-color: grey;
     display: flex;
@@ -39,9 +39,7 @@ div.gallery img {
     width: 100%;
     height: auto;
   } */
-/* ul{
-    text-align: left;
-} */
+
   header, footer{
     background-color: rgba(19, 13, 48, 0.63);
     color: rgb(237, 237, 238);
@@ -70,10 +68,10 @@ aside{
     display: flex;
     flex-direction: column;
 } */
-.logo {
+/* .logo {
     width: 40px;
     margin: 5px;
-}
+} */
 .right {
     padding: 20px;
 }
@@ -95,5 +93,6 @@ aside{
 ul {
     list-style-type: none;
     display: flex;
-    align-items: center;
+    align-items: left;
+    text-align: left;
 }
