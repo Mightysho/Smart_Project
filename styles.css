@@ -2,10 +2,9 @@ body{
     text-align: justify;
     background-color: grey;
     display: flex;
-    flex-direction: column;
-    
-    
+    flex-direction: column;  
 }
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: rgb(255, 255, 255);
