@@ -2,49 +2,53 @@ body{
     text-align: justify;
     background-color: grey;
     display: flex;
-    flex-direction: column;  
-}
+    flex-direction: column;
 
+
+}
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: rgb(255, 255, 255);
     overflow: hidden;
-    
-  }
-  
+
+}
+
   /* Style the links inside the navigation bar */
   .topnav a {
-    float: left;
-    color: #1c0c49;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
+      float: left;
+      color: #1c0c49;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
   }
-  
+
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: rgb(175, 173, 173);
-    color: black;
+      background-color: rgb(175, 173, 173);
+      color: black;
   }
-  
+
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #261646;
-    color: white;
+      background-color: #261646;
+      color: white;
   }
 
 div.gallery img {
     width: 100%;
     height: auto;
-  } */
-
-  header, footer{
-    background-color: rgba(19, 13, 48, 0.63);
-    color: rgb(237, 237, 238);
-    text-align: center;
-    position: static;
 }
+
+ul{
+    text-align: left;
+}
+  header, footer{
+      background-color: rgba(19, 13, 48, 0.63);
+      color: rgb(237, 237, 238);
+      text-align: center;
+      position: static;
+  }
 
 main{
     display: flex;
@@ -60,7 +64,7 @@ article{
 aside{
     flex: 1;
     overflow-y: auto;
-    
+
 }
 
 /* body {
